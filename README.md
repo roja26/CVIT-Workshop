@@ -6,4 +6,7 @@
 - Barcode Scanner
 
 ## Day2
-- DOcument Images
+- Document Images
+- Skew Correction
+- Line and Word Detection
+- Reading Cheque number
