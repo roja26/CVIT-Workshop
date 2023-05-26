@@ -27,3 +27,11 @@
 - Blender
 - Professor Avinash Sharma
 - Professor PJN
+
+## Day5
+- Machine Learning
+- Gradient Descent & Perceptrons
+- Linear Regression and Classifiers
+- MLP Prediction
+- Face Detection 
+- Professor Anoop Namboodiri
