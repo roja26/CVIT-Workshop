@@ -1,4 +1,4 @@
-# CVIT-Workshop
+# CVIT-Workshop Overview
 
 ## Day1
 - Python Basics and DIP basics
@@ -41,3 +41,4 @@
 - WandB
 - Image Captioning
 - BratGPT
+- Professor Makarand Tapaswi
