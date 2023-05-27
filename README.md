@@ -35,3 +35,9 @@
 - MLP Prediction
 - Face Detection 
 - Professor Anoop Namboodiri
+
+## Day6
+- How to make presentations
+- WandB
+- Image Captioning
+- BratGPT
