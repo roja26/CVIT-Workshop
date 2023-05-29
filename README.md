@@ -42,3 +42,10 @@
 - Image Captioning
 - BratGPT
 - Professor Makarand Tapaswi
+
+## Day7
+- Intro to CNNs
+- LeNet5
+- MLP + CNN Analog Clock Reader
+- ADA CVIT Session
+- Latex Report Writing
